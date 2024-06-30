@@ -1,0 +1,7 @@
+streamlit
+Pillow
+torch
+opencv-python-headless
+tqdm
+huggingface_hub
+git+https://github.com/THU-MIG/yolov10.git
