@@ -46,7 +46,4 @@ if uploaded_file:
         label="Download Output Image",
         data=img_bytes,
         file_name="output_image.png",
-        mime="image/png"
-)
-        
-        
+        mime="image/png")

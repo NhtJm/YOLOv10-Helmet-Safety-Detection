@@ -1,7 +1,4 @@
-import os
 from ultralytics import YOLOv10
-import time
-from tqdm import tqdm
 
 import cv2
 
